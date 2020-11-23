@@ -1,0 +1,20 @@
+<form class="" action="index.html" method="post">
+  <label>Name:</label>
+  <input type="text" name="" value=""><br>
+  <label>Password:</label>
+  <input type="password" name="" value=""><br>
+  <label>select the date to Call you</label>
+  <input type="date" name="" value=""><br>
+  <label>Color You like</label>
+  <input type="color" name="" value=""><br>
+  <label for="">Do you need to upload any files</label>
+  <input type="radio" name="" value="Yes"><br> <input type="radio" name="Yes" value="No">
+  <input type="file" name="" value=""><br>
+  <label for="">Your interest scale in my Profile</label>
+  <input type="range"></input>
+  <label>Do yow want to proceed ?</label>
+  <input type="checkbox" name="" value="">
+  <input type="submit" value="Proceed" ><br>
+<input type="email" >
+<input type="number">
+</form>
